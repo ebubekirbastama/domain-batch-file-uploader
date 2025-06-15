@@ -19,6 +19,12 @@ kullanıcı dostu GUI tabanlı bir uygulamadır.
 
 ---
 
+📸 Ekran Görüntüsü
+
+![Ana Ekran](ebshck.png)
+
+
+---
 💻 Kurulum ve Kullanım
 
 Gereksinimler:
